@@ -1,7 +1,7 @@
 # libunrar4ios
 A Xcode project for building unrar library used in iOS projects.  
   
-This project is equivalent to the official unrarlib version 5.3.1. Refer to ```/unrar/version.hpp``` for details.
+This project is equivalent to the official unrarlib version 5.3.4. Refer to ```/unrar/version.hpp``` for details.
 
 # Usage
 Just open this project in Xcode and build it.  
